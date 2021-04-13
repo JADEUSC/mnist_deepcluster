@@ -1,5 +1,5 @@
 # mnist_deepcluster
-Basic implementation of DeepCluster algorithm for mnist dataset
+Basic implementation of DeepCluster algorithm on the mnist dataset
 
 References:
 - Mathilde Caron, Piotr Bojanowski, Armand Joulin, and Matthijs Douze. "Deep Clustering for Unsupervised Learning of Visual Features." Proc. ECCV (2018).
